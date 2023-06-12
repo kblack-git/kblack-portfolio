@@ -94,3 +94,11 @@
 .contactInfo {
     font-size: larger;
 }
+
+ul {  
+    list-style-type: none;
+}
+
+li {
+    padding-top: 30px;
+}
